@@ -1,0 +1,3 @@
+---
+banner: ruby-background.png
+---
